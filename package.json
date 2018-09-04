@@ -4,5 +4,9 @@
     "description": "Whois server data for whis",
     "main": "whois-servers.json",
     "author": "jolle",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jolle/whis-data"
+    }
 }
