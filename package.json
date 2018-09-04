@@ -1,0 +1,8 @@
+{
+    "name": "whis-data",
+    "version": "1.0.0",
+    "description": "Whois server data for whis",
+    "main": "whois-servers.json",
+    "author": "jolle",
+    "license": "MIT"
+}
