@@ -1,6 +1,6 @@
 {
     "name": "whis-data",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Whois server data for whis",
     "main": "whois-servers.json",
     "author": "jolle",
