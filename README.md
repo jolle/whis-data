@@ -1,5 +1,5 @@
 # whis-data
 
-![Whis last updated](https://whis-github-integration.jolle.io/badge.svg)
+This repository no longer contains the automatically updating WHOIS data; it is directly published to NPM every month. The JSON file can be downloaded directly from, for example, [unpkg](https://unpkg.com/whis-data@1.2.x/whois-servers.json). The data is updated automatically with [whis-bot](https://github.com/jolle/whis-data).
 
-This package has automatically updating WHOIS server data.
+Please report any issues with the data in [issues](https://github.com/jolle/whis-data/issues).
